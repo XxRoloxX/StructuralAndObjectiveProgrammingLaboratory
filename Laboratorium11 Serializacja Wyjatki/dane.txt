@@ -1,0 +1,4 @@
+Iteracje;CzasDlaIndexGenerowanie;CzasDlaIndexRzucanie;CzasDlaArithmeticGenerowanie;CzasDlaArithmeticRzucanie
+100;3016;19296;524344;366588
+1000;21971;107342;5241023;6482773
+10000;254758;1169474;24052367;26503816
