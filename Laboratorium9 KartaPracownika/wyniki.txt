@@ -1,0 +1,3 @@
+Nazwisko: Zawadzki, numer: 26, pensja (bez premii): 1319.3, pensja z premia: 1583.16
+Nazwisko: Zawadzki, numer: 7, pensja (bez premii): 1892.82, pensja z premia: 2271.38
+Nazwisko: Zawadzki, numer: 22, pensja (bez premii): 200.9, pensja z premia: 241.08
